@@ -4,7 +4,6 @@ import binascii
 import random
 import math
 import sys
-import random
 import string
 
 def randomString(stringLength):
