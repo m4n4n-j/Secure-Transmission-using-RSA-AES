@@ -14,7 +14,7 @@ Data is increasingly central to our personal lives, economic prosperity, and sec
 
     (For the demo, we have kept a song file in the Input folder)
 
-4. Open the terminal and input the following command.
+4. Open the terminal in the code directory and input the following command .
 	
     `python3 secure.py`
 
