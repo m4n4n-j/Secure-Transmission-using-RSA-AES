@@ -30,4 +30,4 @@ Data is increasingly central to our personal lives, economic prosperity, and sec
  - Decryption and reconversion of the file then takes place at the other end.
  - Now, the audio message is ready to be heard on the other side.
 
-## Read [Report.pdf](./Report.pdf) To know about the project. 
+## Read [Report.pdf](./Report.pdf) To know about the project and algorithms used. 
